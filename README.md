@@ -6,4 +6,4 @@ Este projeto demonstra o ciclo de vida completo de uma contribuição utilizando
 
 ## Sobre
 
-Este repositório contém um script simples com funcinoalidades basicas.
+Este repositório contém um script simples com funcionalidades básicas.
